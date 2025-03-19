@@ -24,5 +24,5 @@ This repository contains a simple project designed to blink an LED using an ESP3
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode)
 - ESP32 development board
-- USB cable for programming
+- Wokwi License (community)
 - Basic knowledge of C++ programming
