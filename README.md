@@ -10,6 +10,7 @@
 - Arduino framework examples
 - LED blinking test
 
+![Alt text](SetUp.png "Optional title")
 
 ## Prerequisites
 
